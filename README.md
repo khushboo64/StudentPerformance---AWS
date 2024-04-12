@@ -1,1 +1,1 @@
-## End to end ML projects"# StudentPerformance---AWS - using CICD pipeline" 
+## End to end ML projects"# StudentPerformance---AWS EC2- using CICD pipeline" 
